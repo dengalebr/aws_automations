@@ -1,0 +1,81 @@
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,ap-southeast-1,ami-e07f7bb2
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,ap-northeast-1,ami-4a892c4a
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,ap-southeast-2,ami-fb6812c1
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,eu-west-1,ami-93c8b3e4
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,sa-east-1,ami-55c14348
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,us-east-1,ami-a79c61cc
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,us-west-1,ami-457d8901
+Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon,us-west-2,ami-c58db7f5
+
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,ap-southeast-1,ami-a47f7bf6
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,ap-northeast-1,ami-de892cde
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,ap-southeast-2,ami-d96812e3
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,eu-west-1,ami-bfcfb4c8
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,sa-east-1,ami-8bc14396
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,us-east-1,ami-c39e63a8
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,us-west-1,ami-617d8925
+Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon,us-west-2,ami-7382b843
+
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,ap-southeast-1,ami-68787c3a
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,ap-northeast-1,ami-4a882d4a
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,ap-southeast-2,ami-2d691317
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,eu-west-1,ami-91cfb4e6
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,sa-east-1,ami-81c1439c
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,us-east-1,ami-2599644e
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,us-west-1,ami-797d893d
+Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon,us-west-2,ami-b182b881
+
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,ap-southeast-1,ami-5c7a7e0e
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,ap-northeast-1,ami-c89431c8
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,ap-southeast-2,ami-b56e148f
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,eu-west-1,ami-e5c1ba92
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,sa-east-1,ami-adc644b0
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,us-east-1,ami-a9906dc2
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,us-west-1,ami-457f8b01
+CSB - MICROSOFT WINDOWS SERVER 2008 BASE,us-west-2,ami-1386bc23
+
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,ap-southeast-1,ami-fe7b7fac
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,ap-northeast-1,ami-24913424
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,ap-southeast-2,ami-6d6f1557
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,eu-west-1,ami-6fc5be18
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,sa-east-1,ami-35c74528
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,us-east-1,ami-0789746c
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,us-west-1,ami-a75ca8e3
+CSB - MICROSOFT WINDOWS SERVER 2008 R2 WITH SQL SERVER STANDARD,us-west-2,ami-877471b7
+
+CSB - UBUNTU SERVER 14.04 LTS,ap-southeast-1,ami-14191d46
+CSB - UBUNTU SERVER 14.04 LTS,ap-northeast-1,ami-6006a360
+CSB - UBUNTU SERVER 14.04 LTS,ap-southeast-2,ami-f7572dcd
+CSB - UBUNTU SERVER 14.04 LTS,eu-west-1,ami-c5661cb2
+CSB - UBUNTU SERVER 14.04 LTS,sa-east-1,ami-99da5884
+CSB - UBUNTU SERVER 14.04 LTS,us-east-1,ami-af6d90c4
+CSB - UBUNTU SERVER 14.04 LTS,us-west-1,ami-ad5da9e9
+CSB - UBUNTU SERVER 14.04 LTS,us-west-2,ami-e77673d7
+
+CSB - AMAZON LINUX AMI 2015.03,ap-southeast-1,ami-68191d3a
+CSB - AMAZON LINUX AMI 2015.03,ap-northeast-1,ami-4e06a34e
+CSB - AMAZON LINUX AMI 2015.03,ap-southeast-2,ami-fb4b31c1
+CSB - AMAZON LINUX AMI 2015.03,eu-west-1,ami-55621822
+CSB - AMAZON LINUX AMI 2015.03,sa-east-1,ami-73d5576e
+CSB - AMAZON LINUX AMI 2015.03,us-east-1,ami-6d708d06
+CSB - AMAZON LINUX AMI 2015.03,us-west-1,ami-cb5aae8f
+CSB - AMAZON LINUX AMI 2015.03,us-west-2,ami-017f7a31
+
+CSB - SUSE LINUX ENTERPRISE SERVER 12,ap-southeast-1,ami-12191d40
+CSB - SUSE LINUX ENTERPRISE SERVER 12,ap-northeast-1,ami-5e06a35e
+CSB - SUSE LINUX ENTERPRISE SERVER 12,ap-southeast-2,ami-7f483245
+CSB - SUSE LINUX ENTERPRISE SERVER 12,eu-west-1,ami-1d53296a
+CSB - SUSE LINUX ENTERPRISE SERVER 12,sa-east-1,ami-5fda5842
+CSB - SUSE LINUX ENTERPRISE SERVER 12,us-east-1,ami-cf708da4
+CSB - SUSE LINUX ENTERPRISE SERVER 12,us-west-1,ami-a15da9e5
+CSB - SUSE LINUX ENTERPRISE SERVER 12,us-west-2,ami-bb7f7a8b
+
+SUSE LINUX ENTERPRISE SERVER 11 SP3,ap-southeast-1,ami-6c20243e
+SUSE LINUX ENTERPRISE SERVER 11 SP3,ap-northeast-1,ami-aa12b7aa
+SUSE LINUX ENTERPRISE SERVER 11 SP3,ap-southeast-2,ami-1b4f3521
+SUSE LINUX ENTERPRISE SERVER 11 SP3,eu-west-1,ami-bf4b31c8
+SUSE LINUX ENTERPRISE SERVER 11 SP3,sa-east-1,ami-c9e163d4
+SUSE LINUX ENTERPRISE SERVER 11 SP3,us-east-1,ami-1d9b6776
+SUSE LINUX ENTERPRISE SERVER 11 SP3,us-west-1,ami-8540b4c1
+SUSE LINUX ENTERPRISE SERVER 11 SP3,us-west-2,ami-11020721
+
